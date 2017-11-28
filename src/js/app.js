@@ -1,3 +1,4 @@
-import AppController from './controller/AppController'; 
+import AppController from './controller/AppController';
 
-let appController = new AppController();
+/* eslint-disable no-unused-vars */
+const appController = new AppController();
